@@ -9,7 +9,7 @@ Combining that intuition, I decided to do twiddle manually. I'll start with one 
 ### Optimizing Kp
 
 #### Kp=0.1
-I started with Kp=0.1, and the other two parameters set to 0. The car starts off normal, but by the name it reaches the first curve, it starts oscillating, and eventually going off road.
+I started with Kp=0.1, and the other two parameters set to 0. The car starts off normal, but by the time it reaches the first curve, it starts oscillating, and eventually getting off the road.
 
 Video: [Kp=0.1, Ki=0, Kd=0](videos/Kp1.mp4)
 
